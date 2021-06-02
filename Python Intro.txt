@@ -1,4 +1,42 @@
-HI Guys,
-USe this as readme file, i am guru. i want to be well versed in writing python codes in the near fuyture. 
 
-thanks for the view!!
+Hi Guys,
+
+Use this as readme file - 2,
+I am guru. I want to be well versed in writing python codes in the near future like Santohs and Vamsi. 
+
+Thanks for the view!!
+
+
+GIT commands learning:
+
+git init(after in folder whre repo is to be set)
+
+git config --global user.name "rgvkrushnan" (login to github) <-merge git + github sync 
+
+sync email:
+
+git config --global user.email "guru09295@gmail.com"
+
+
+https://github.com/rgvkrushnan/Python-Codes
+
+
+git remote add origin "link of repo" <- repo link to git 
+
+verify the repo: git remote get-url origin
+
+To change repo 2: git remote set-url origin (https://** link2)
+
+
+local to staging area: to add files after setting repo: git add "filename"
+
+staging to commit area: 
+To commit file :
+git commit -m "comments of commiting file"
+
+commit area to to prod(main github repo):
+git push -u origin master(pushes files to main branch)
+
+
+
+
